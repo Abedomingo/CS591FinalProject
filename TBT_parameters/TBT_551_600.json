@@ -1,0 +1,2552 @@
+[
+  {
+    "user": {
+      "screen_name": "ElectraOrion2",
+      "id_str": "1398823265100087299",
+      "lang": "es"
+    },
+    "categories": {
+      "astroturf": 0.04,
+      "fake_follower": 0.4,
+      "financial": 0.02,
+      "other": 0.47,
+      "overall": 0.31,
+      "self_declared": 0.04,
+      "spammer": 0.21
+    },
+    "score": 0.31,
+    "scores": {
+      "english": {
+        "astroturf": 0.03,
+        "fake_follower": 0.53,
+        "financial": 0.02,
+        "other": 0.48,
+        "overall": 0.29,
+        "self_declared": 0,
+        "spammer": 0.19
+      },
+      "universal": {
+        "astroturf": 0.04,
+        "fake_follower": 0.4,
+        "financial": 0.02,
+        "other": 0.47,
+        "overall": 0.31,
+        "self_declared": 0.04,
+        "spammer": 0.21
+      }
+    },
+    "capScore": 0.7897432630001835,
+    "cap": {
+      "english": 0.7717813288270262,
+      "universal": 0.7897432630001835
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Nov 27 04:36:05 +0000 2021",
+      "recentTweetsPerWeek": "12",
+      "numberOfTweets": 278,
+      "numberOfFollowees": 522,
+      "numberOfFollowers": 362,
+      "numberOfLikes": 632
+    }
+  },
+  {
+    "user": {
+      "screen_name": "wallynet3",
+      "id_str": "27525994",
+      "lang": "es"
+    },
+    "categories": {
+      "astroturf": 0.75,
+      "fake_follower": 0.09,
+      "financial": 0,
+      "other": 0.19,
+      "overall": 0.16,
+      "self_declared": 0,
+      "spammer": 0
+    },
+    "score": 0.16,
+    "scores": {
+      "english": {
+        "astroturf": 0.7,
+        "fake_follower": 0.22,
+        "financial": 0,
+        "other": 0.58,
+        "overall": 0.29,
+        "self_declared": 0,
+        "spammer": 0
+      },
+      "universal": {
+        "astroturf": 0.75,
+        "fake_follower": 0.09,
+        "financial": 0,
+        "other": 0.19,
+        "overall": 0.16,
+        "self_declared": 0,
+        "spammer": 0
+      }
+    },
+    "capScore": 0.6415870166679795,
+    "cap": {
+      "english": 0.7717813288270262,
+      "universal": 0.6415870166679795
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sun Dec 12 00:22:45 +0000 2021",
+      "recentTweetsPerWeek": "1100",
+      "numberOfTweets": 281658,
+      "numberOfFollowees": 7334,
+      "numberOfFollowers": 11440,
+      "numberOfLikes": 13290
+    }
+  },
+  {
+    "user": {
+      "screen_name": "themessina",
+      "id_str": "46733001",
+      "lang": "pt"
+    },
+    "categories": {
+      "astroturf": 0.01,
+      "fake_follower": 0,
+      "financial": 0,
+      "other": 0.03,
+      "overall": 0.02,
+      "self_declared": 0,
+      "spammer": 0
+    },
+    "score": 0.02,
+    "scores": {
+      "english": {
+        "astroturf": 0.05,
+        "fake_follower": 0.13,
+        "financial": 0.03,
+        "other": 0.26,
+        "overall": 0.15,
+        "self_declared": 0,
+        "spammer": 0.09
+      },
+      "universal": {
+        "astroturf": 0.01,
+        "fake_follower": 0,
+        "financial": 0,
+        "other": 0.03,
+        "overall": 0.02,
+        "self_declared": 0,
+        "spammer": 0
+      }
+    },
+    "capScore": 0.2603678379426137,
+    "cap": {
+      "english": 0.6004883262510591,
+      "universal": 0.2603678379426137
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Thu Dec 09 22:33:14 +0000 2021",
+      "recentTweetsPerWeek": "2.5",
+      "numberOfTweets": 3211,
+      "numberOfFollowees": 302,
+      "numberOfFollowers": 115,
+      "numberOfLikes": 1509
+    }
+  },
+  {
+    "user": {
+      "screen_name": "adriana_donghia",
+      "id_str": "106287661",
+      "lang": "es"
+    },
+    "categories": {
+      "astroturf": 0.05,
+      "fake_follower": 0.16,
+      "financial": 0.02,
+      "other": 0.47,
+      "overall": 0.29,
+      "self_declared": 0.04,
+      "spammer": 0.05
+    },
+    "score": 0.29,
+    "scores": {
+      "english": {
+        "astroturf": 0.04,
+        "fake_follower": 0.33,
+        "financial": 0,
+        "other": 0.6,
+        "overall": 0.35,
+        "self_declared": 0.03,
+        "spammer": 0.16
+      },
+      "universal": {
+        "astroturf": 0.05,
+        "fake_follower": 0.16,
+        "financial": 0.02,
+        "other": 0.47,
+        "overall": 0.29,
+        "self_declared": 0.04,
+        "spammer": 0.05
+      }
+    },
+    "capScore": 0.7828265255249504,
+    "cap": {
+      "english": 0.7892294694438972,
+      "universal": 0.7828265255249504
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Fri Nov 12 02:13:35 +0000 2021",
+      "recentTweetsPerWeek": "3.1",
+      "numberOfTweets": 22964,
+      "numberOfFollowees": 518,
+      "numberOfFollowers": 202021,
+      "numberOfLikes": 161
+    }
+  },
+  {
+    "user": {
+      "screen_name": "FabrizzioAgust2",
+      "id_str": "1366604019158962179",
+      "lang": "es"
+    },
+    "categories": {
+      "astroturf": 0.23,
+      "fake_follower": 0.2,
+      "financial": 0.19,
+      "other": 0.54,
+      "overall": 0.54,
+      "self_declared": 0.04,
+      "spammer": 0.07
+    },
+    "score": 0.54,
+    "scores": {
+      "english": {
+        "astroturf": 0.16,
+        "fake_follower": 0.29,
+        "financial": 0.34,
+        "other": 0.73,
+        "overall": 0.73,
+        "self_declared": 0.02,
+        "spammer": 0.1
+      },
+      "universal": {
+        "astroturf": 0.23,
+        "fake_follower": 0.2,
+        "financial": 0.19,
+        "other": 0.54,
+        "overall": 0.54,
+        "self_declared": 0.04,
+        "spammer": 0.07
+      }
+    },
+    "capScore": 0.8054210927612583,
+    "cap": {
+      "english": 0.7998362042473794,
+      "universal": 0.8054210927612583
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sun Dec 12 00:36:31 +0000 2021",
+      "recentTweetsPerWeek": "770",
+      "numberOfTweets": 18206,
+      "numberOfFollowees": 681,
+      "numberOfFollowers": 142,
+      "numberOfLikes": 17657
+    }
+  },
+  {
+    "user": {
+      "screen_name": "ratedRtwitstar",
+      "id_str": "28015433",
+      "lang": "en"
+    },
+    "categories": {
+      "astroturf": 0.04,
+      "fake_follower": 0,
+      "financial": 0.05,
+      "other": 0.17,
+      "overall": 0.03,
+      "self_declared": 0,
+      "spammer": 0
+    },
+    "score": 0.03,
+    "scores": {
+      "english": {
+        "astroturf": 0.04,
+        "fake_follower": 0,
+        "financial": 0.05,
+        "other": 0.17,
+        "overall": 0.03,
+        "self_declared": 0,
+        "spammer": 0
+      },
+      "universal": {
+        "astroturf": 0.03,
+        "fake_follower": 0.01,
+        "financial": 0.03,
+        "other": 0.04,
+        "overall": 0.01,
+        "self_declared": 0,
+        "spammer": 0.01
+      }
+    },
+    "capScore": 0.2787259978325127,
+    "cap": {
+      "english": 0.2787259978325127,
+      "universal": 0.23332432370635456
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 23:36:42 +0000 2021",
+      "recentTweetsPerWeek": "45",
+      "numberOfTweets": 22441,
+      "numberOfFollowees": 344,
+      "numberOfFollowers": 202,
+      "numberOfLikes": 5943
+    }
+  },
+  {
+    "user": {
+      "screen_name": "madefornow",
+      "id_str": "737654817447874560",
+      "lang": "en"
+    },
+    "categories": {
+      "astroturf": 0.13,
+      "fake_follower": 0.12,
+      "financial": 0.02,
+      "other": 0.09,
+      "overall": 0.09,
+      "self_declared": 0,
+      "spammer": 0
+    },
+    "score": 0.09,
+    "scores": {
+      "english": {
+        "astroturf": 0.13,
+        "fake_follower": 0.12,
+        "financial": 0.02,
+        "other": 0.09,
+        "overall": 0.09,
+        "self_declared": 0,
+        "spammer": 0
+      },
+      "universal": {
+        "astroturf": 0.11,
+        "fake_follower": 0.07,
+        "financial": 0.01,
+        "other": 0.25,
+        "overall": 0.09,
+        "self_declared": 0,
+        "spammer": 0.01
+      }
+    },
+    "capScore": 0.4479465575931997,
+    "cap": {
+      "english": 0.4479465575931997,
+      "universal": 0.4658392474232361
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sun Dec 05 20:56:23 +0000 2021",
+      "recentTweetsPerWeek": "14",
+      "numberOfTweets": 9165,
+      "numberOfFollowees": 2171,
+      "numberOfFollowers": 2661,
+      "numberOfLikes": 2597
+    }
+  },
+  {
+    "user": {
+      "screen_name": "jose_ulisesag",
+      "id_str": "2598528334",
+      "lang": "es"
+    },
+    "categories": {
+      "astroturf": 0.14,
+      "fake_follower": 0.16,
+      "financial": 0.02,
+      "other": 0.46,
+      "overall": 0.19,
+      "self_declared": 0,
+      "spammer": 0.01
+    },
+    "score": 0.19,
+    "scores": {
+      "english": {
+        "astroturf": 0.09,
+        "fake_follower": 0.28,
+        "financial": 0.11,
+        "other": 0.63,
+        "overall": 0.29,
+        "self_declared": 0.02,
+        "spammer": 0.02
+      },
+      "universal": {
+        "astroturf": 0.14,
+        "fake_follower": 0.16,
+        "financial": 0.02,
+        "other": 0.46,
+        "overall": 0.19,
+        "self_declared": 0,
+        "spammer": 0.01
+      }
+    },
+    "capScore": 0.6945161422354588,
+    "cap": {
+      "english": 0.7717813288270262,
+      "universal": 0.6945161422354588
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 23:12:06 +0000 2021",
+      "recentTweetsPerWeek": "120",
+      "numberOfTweets": 42246,
+      "numberOfFollowees": 165,
+      "numberOfFollowers": 421,
+      "numberOfLikes": 53516
+    }
+  },
+  {
+    "user": {
+      "screen_name": "ZOLAJESUS",
+      "id_str": "21043499",
+      "lang": "en"
+    },
+    "categories": {
+      "astroturf": 0.04,
+      "fake_follower": 0,
+      "financial": 0,
+      "other": 0.05,
+      "overall": 0,
+      "self_declared": 0,
+      "spammer": 0
+    },
+    "score": 0,
+    "scores": {
+      "english": {
+        "astroturf": 0.04,
+        "fake_follower": 0,
+        "financial": 0,
+        "other": 0.05,
+        "overall": 0,
+        "self_declared": 0,
+        "spammer": 0
+      },
+      "universal": {
+        "astroturf": 0.05,
+        "fake_follower": 0,
+        "financial": 0,
+        "other": 0.14,
+        "overall": 0.06,
+        "self_declared": 0,
+        "spammer": 0
+      }
+    },
+    "capScore": 0,
+    "cap": {
+      "english": 0,
+      "universal": 0.37678996390568303
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 16:54:44 +0000 2021",
+      "recentTweetsPerWeek": "15",
+      "numberOfTweets": 239,
+      "numberOfFollowees": 1174,
+      "numberOfFollowers": 39666,
+      "numberOfLikes": 20073
+    }
+  },
+  {
+    "user": {
+      "screen_name": "AnaClar50",
+      "id_str": "832627486747799552",
+      "lang": "pt"
+    },
+    "categories": {
+      "astroturf": 0,
+      "fake_follower": 0.02,
+      "financial": 0,
+      "other": 0.2,
+      "overall": 0.07,
+      "self_declared": 0,
+      "spammer": 0.01
+    },
+    "score": 0.07,
+    "scores": {
+      "english": {
+        "astroturf": 0,
+        "fake_follower": 0.15,
+        "financial": 0.01,
+        "other": 0.29,
+        "overall": 0.13,
+        "self_declared": 0,
+        "spammer": 0.01
+      },
+      "universal": {
+        "astroturf": 0,
+        "fake_follower": 0.02,
+        "financial": 0,
+        "other": 0.2,
+        "overall": 0.07,
+        "self_declared": 0,
+        "spammer": 0.01
+      }
+    },
+    "capScore": 0.40673978557586005,
+    "cap": {
+      "english": 0.5539725719744064,
+      "universal": 0.40673978557586005
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 18:19:22 +0000 2021",
+      "recentTweetsPerWeek": "13",
+      "numberOfTweets": 5520,
+      "numberOfFollowees": 620,
+      "numberOfFollowers": 693,
+      "numberOfLikes": 7829
+    }
+  },
+  {
+    "user": {
+      "screen_name": "macr97",
+      "id_str": "719977941925367808",
+      "lang": "es"
+    },
+    "categories": {
+      "astroturf": 0.02,
+      "fake_follower": 0.01,
+      "financial": 0,
+      "other": 0.11,
+      "overall": 0,
+      "self_declared": 0,
+      "spammer": 0.04
+    },
+    "score": 0,
+    "scores": {
+      "english": {
+        "astroturf": 0.05,
+        "fake_follower": 0.06,
+        "financial": 0,
+        "other": 0.43,
+        "overall": 0.19,
+        "self_declared": 0,
+        "spammer": 0.02
+      },
+      "universal": {
+        "astroturf": 0.02,
+        "fake_follower": 0.01,
+        "financial": 0,
+        "other": 0.11,
+        "overall": 0,
+        "self_declared": 0,
+        "spammer": 0.04
+      }
+    },
+    "capScore": 0,
+    "cap": {
+      "english": 0.6763619064808265,
+      "universal": 0
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sun Dec 12 00:38:53 +0000 2021",
+      "recentTweetsPerWeek": "140",
+      "numberOfTweets": 13114,
+      "numberOfFollowees": 343,
+      "numberOfFollowers": 347,
+      "numberOfLikes": 23983
+    }
+  },
+  {
+    "user": {
+      "screen_name": "Faze5Prime",
+      "id_str": "1255348359096909827",
+      "lang": "en"
+    },
+    "categories": {
+      "astroturf": 0.01,
+      "fake_follower": 0.1,
+      "financial": 0.03,
+      "other": 0.17,
+      "overall": 0.08,
+      "self_declared": 0,
+      "spammer": 0
+    },
+    "score": 0.08,
+    "scores": {
+      "english": {
+        "astroturf": 0.01,
+        "fake_follower": 0.1,
+        "financial": 0.03,
+        "other": 0.17,
+        "overall": 0.08,
+        "self_declared": 0,
+        "spammer": 0
+      },
+      "universal": {
+        "astroturf": 0.02,
+        "fake_follower": 0.07,
+        "financial": 0,
+        "other": 0.07,
+        "overall": 0.05,
+        "self_declared": 0,
+        "spammer": 0
+      }
+    },
+    "capScore": 0.4197222421546159,
+    "cap": {
+      "english": 0.4197222421546159,
+      "universal": 0.3469210182245441
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Fri Dec 10 21:21:53 +0000 2021",
+      "recentTweetsPerWeek": "5.0",
+      "numberOfTweets": 847,
+      "numberOfFollowees": 374,
+      "numberOfFollowers": 32,
+      "numberOfLikes": 5979
+    }
+  },
+  {
+    "user": {
+      "screen_name": "Marguibelbar",
+      "id_str": "68208180",
+      "lang": "es"
+    },
+    "categories": {
+      "astroturf": 0.29,
+      "fake_follower": 0.46,
+      "financial": 0.11,
+      "other": 0.61,
+      "overall": 0.61,
+      "self_declared": 0.03,
+      "spammer": 0.15
+    },
+    "score": 0.61,
+    "scores": {
+      "english": {
+        "astroturf": 0.37,
+        "fake_follower": 0.43,
+        "financial": 0.19,
+        "other": 0.53,
+        "overall": 0.53,
+        "self_declared": 0.04,
+        "spammer": 0.17
+      },
+      "universal": {
+        "astroturf": 0.29,
+        "fake_follower": 0.46,
+        "financial": 0.11,
+        "other": 0.61,
+        "overall": 0.61,
+        "self_declared": 0.03,
+        "spammer": 0.15
+      }
+    },
+    "capScore": 0.8052216892873937,
+    "cap": {
+      "english": 0.7971422227407965,
+      "universal": 0.8052216892873937
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 21:33:53 +0000 2021",
+      "recentTweetsPerWeek": "380",
+      "numberOfTweets": 85685,
+      "numberOfFollowees": 4996,
+      "numberOfFollowers": 740,
+      "numberOfLikes": 91797
+    }
+  },
+  {
+    "user": {
+      "screen_name": "l_loraa",
+      "id_str": "1312531084840783873",
+      "lang": "pt"
+    },
+    "categories": {
+      "astroturf": 0.03,
+      "fake_follower": 0.09,
+      "financial": 0,
+      "other": 0.4,
+      "overall": 0.19,
+      "self_declared": 0.02,
+      "spammer": 0.07
+    },
+    "score": 0.19,
+    "scores": {
+      "english": {
+        "astroturf": 0.01,
+        "fake_follower": 0.19,
+        "financial": 0.03,
+        "other": 0.43,
+        "overall": 0.23,
+        "self_declared": 0,
+        "spammer": 0.1
+      },
+      "universal": {
+        "astroturf": 0.03,
+        "fake_follower": 0.09,
+        "financial": 0,
+        "other": 0.4,
+        "overall": 0.19,
+        "self_declared": 0.02,
+        "spammer": 0.07
+      }
+    },
+    "capScore": 0.6945161422354588,
+    "cap": {
+      "english": 0.7287106185584935,
+      "universal": 0.6945161422354588
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 19:14:50 +0000 2021",
+      "recentTweetsPerWeek": "65",
+      "numberOfTweets": 3553,
+      "numberOfFollowees": 217,
+      "numberOfFollowers": 56,
+      "numberOfLikes": 8521
+    }
+  },
+  {
+    "user": {
+      "screen_name": "mr_fiddle",
+      "id_str": "1361234494108413956",
+      "lang": "en"
+    },
+    "categories": {
+      "astroturf": 0.29,
+      "fake_follower": 0.3,
+      "financial": 0.24,
+      "other": 0.5,
+      "overall": 0.31,
+      "self_declared": 0.01,
+      "spammer": 0.06
+    },
+    "score": 0.31,
+    "scores": {
+      "english": {
+        "astroturf": 0.29,
+        "fake_follower": 0.3,
+        "financial": 0.24,
+        "other": 0.5,
+        "overall": 0.31,
+        "self_declared": 0.01,
+        "spammer": 0.06
+      },
+      "universal": {
+        "astroturf": 0.26,
+        "fake_follower": 0.26,
+        "financial": 0.13,
+        "other": 0.29,
+        "overall": 0.19,
+        "self_declared": 0,
+        "spammer": 0.08
+      }
+    },
+    "capScore": 0.779581525363529,
+    "cap": {
+      "english": 0.779581525363529,
+      "universal": 0.6945161422354588
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sun Dec 12 00:22:44 +0000 2021",
+      "recentTweetsPerWeek": "200",
+      "numberOfTweets": 5168,
+      "numberOfFollowees": 1470,
+      "numberOfFollowers": 169,
+      "numberOfLikes": 74043
+    }
+  },
+  {
+    "user": {
+      "screen_name": "ArKazamG",
+      "id_str": "1272365888725856257",
+      "lang": "es"
+    },
+    "categories": {
+      "astroturf": 0.13,
+      "fake_follower": 0.81,
+      "financial": 0.46,
+      "other": 0.7,
+      "overall": 0.81,
+      "self_declared": 0.09,
+      "spammer": 0.07
+    },
+    "score": 0.81,
+    "scores": {
+      "english": {
+        "astroturf": 0.14,
+        "fake_follower": 0.69,
+        "financial": 0.45,
+        "other": 0.86,
+        "overall": 0.86,
+        "self_declared": 0.01,
+        "spammer": 0.11
+      },
+      "universal": {
+        "astroturf": 0.13,
+        "fake_follower": 0.81,
+        "financial": 0.46,
+        "other": 0.7,
+        "overall": 0.81,
+        "self_declared": 0.09,
+        "spammer": 0.07
+      }
+    },
+    "capScore": 0.82211302959919,
+    "cap": {
+      "english": 0.8395863545645614,
+      "universal": 0.82211302959919
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 19:58:31 +0000 2021",
+      "recentTweetsPerWeek": "44",
+      "numberOfTweets": 1859,
+      "numberOfFollowees": 1308,
+      "numberOfFollowers": 26,
+      "numberOfLikes": 3991
+    }
+  },
+  {
+    "user": {
+      "screen_name": "FernandaTurino",
+      "id_str": "919565655711600640",
+      "lang": "pt"
+    },
+    "categories": {
+      "astroturf": 0.07,
+      "fake_follower": 0.02,
+      "financial": 0,
+      "other": 0.06,
+      "overall": 0.02,
+      "self_declared": 0.01,
+      "spammer": 0
+    },
+    "score": 0.02,
+    "scores": {
+      "english": {
+        "astroturf": 0.03,
+        "fake_follower": 0.09,
+        "financial": 0.06,
+        "other": 0.45,
+        "overall": 0.18,
+        "self_declared": 0.02,
+        "spammer": 0.04
+      },
+      "universal": {
+        "astroturf": 0.07,
+        "fake_follower": 0.02,
+        "financial": 0,
+        "other": 0.06,
+        "overall": 0.02,
+        "self_declared": 0.01,
+        "spammer": 0
+      }
+    },
+    "capScore": 0.2603678379426137,
+    "cap": {
+      "english": 0.659646495284545,
+      "universal": 0.2603678379426137
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Fri Dec 10 23:14:11 +0000 2021",
+      "recentTweetsPerWeek": "16",
+      "numberOfTweets": 1929,
+      "numberOfFollowees": 279,
+      "numberOfFollowers": 69,
+      "numberOfLikes": 5746
+    }
+  },
+  {
+    "user": {
+      "screen_name": "justinrching",
+      "id_str": "24562564",
+      "lang": "en"
+    },
+    "categories": {
+      "astroturf": 0.06,
+      "fake_follower": 0.08,
+      "financial": 0,
+      "other": 0.14,
+      "overall": 0.04,
+      "self_declared": 0.01,
+      "spammer": 0.01
+    },
+    "score": 0.04,
+    "scores": {
+      "english": {
+        "astroturf": 0.06,
+        "fake_follower": 0.08,
+        "financial": 0,
+        "other": 0.14,
+        "overall": 0.04,
+        "self_declared": 0.01,
+        "spammer": 0.01
+      },
+      "universal": {
+        "astroturf": 0.01,
+        "fake_follower": 0.05,
+        "financial": 0,
+        "other": 0.07,
+        "overall": 0.18,
+        "self_declared": 0,
+        "spammer": 0.01
+      }
+    },
+    "capScore": 0.30618807248975083,
+    "cap": {
+      "english": 0.30618807248975083,
+      "universal": 0.6784864269642225
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Fri Dec 10 15:57:00 +0000 2021",
+      "recentTweetsPerWeek": "1.5",
+      "numberOfTweets": 3364,
+      "numberOfFollowees": 1213,
+      "numberOfFollowers": 17915,
+      "numberOfLikes": 834
+    }
+  },
+  {
+    "user": {
+      "screen_name": "wittooss",
+      "id_str": "2830077327",
+      "lang": "es"
+    },
+    "categories": {
+      "astroturf": 0.25,
+      "fake_follower": 0.33,
+      "financial": 0.24,
+      "other": 0.54,
+      "overall": 0.34,
+      "self_declared": 0.02,
+      "spammer": 0.01
+    },
+    "score": 0.34,
+    "scores": {
+      "english": {
+        "astroturf": 0.22,
+        "fake_follower": 0.31,
+        "financial": 0.28,
+        "other": 0.71,
+        "overall": 0.71,
+        "self_declared": 0,
+        "spammer": 0.05
+      },
+      "universal": {
+        "astroturf": 0.25,
+        "fake_follower": 0.33,
+        "financial": 0.24,
+        "other": 0.54,
+        "overall": 0.34,
+        "self_declared": 0.02,
+        "spammer": 0.01
+      }
+    },
+    "capScore": 0.7966241294741505,
+    "cap": {
+      "english": 0.7983123643488195,
+      "universal": 0.7966241294741505
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 12:52:15 +0000 2021",
+      "recentTweetsPerWeek": "26",
+      "numberOfTweets": 4000,
+      "numberOfFollowees": 287,
+      "numberOfFollowers": 63,
+      "numberOfLikes": 12973
+    }
+  },
+  {
+    "user": {
+      "screen_name": "vickybragas",
+      "id_str": "223104350",
+      "lang": "pt"
+    },
+    "categories": {
+      "astroturf": 0.09,
+      "fake_follower": 0.16,
+      "financial": 0.09,
+      "other": 0.44,
+      "overall": 0.2,
+      "self_declared": 0.01,
+      "spammer": 0.07
+    },
+    "score": 0.2,
+    "scores": {
+      "english": {
+        "astroturf": 0.09,
+        "fake_follower": 0.36,
+        "financial": 0.08,
+        "other": 0.49,
+        "overall": 0.45,
+        "self_declared": 0,
+        "spammer": 0.08
+      },
+      "universal": {
+        "astroturf": 0.09,
+        "fake_follower": 0.16,
+        "financial": 0.09,
+        "other": 0.44,
+        "overall": 0.2,
+        "self_declared": 0.01,
+        "spammer": 0.07
+      }
+    },
+    "capScore": 0.7089830786080018,
+    "cap": {
+      "english": 0.7966467093695401,
+      "universal": 0.7089830786080018
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 21:24:39 +0000 2021",
+      "recentTweetsPerWeek": "420",
+      "numberOfTweets": 74207,
+      "numberOfFollowees": 853,
+      "numberOfFollowers": 399,
+      "numberOfLikes": 159627
+    }
+  },
+  {
+    "user": {
+      "screen_name": "minekosann1",
+      "id_str": "1427425376733589523",
+      "lang": "ja"
+    },
+    "categories": {
+      "astroturf": 0.23,
+      "fake_follower": 0.23,
+      "financial": 0.06,
+      "other": 0.38,
+      "overall": 0.28,
+      "self_declared": 0.01,
+      "spammer": 0.22
+    },
+    "score": 0.28,
+    "scores": {
+      "english": {
+        "astroturf": 0.25,
+        "fake_follower": 0.24,
+        "financial": 0.12,
+        "other": 0.82,
+        "overall": 0.82,
+        "self_declared": 0.09,
+        "spammer": 0.19
+      },
+      "universal": {
+        "astroturf": 0.23,
+        "fake_follower": 0.23,
+        "financial": 0.06,
+        "other": 0.38,
+        "overall": 0.28,
+        "self_declared": 0.01,
+        "spammer": 0.22
+      }
+    },
+    "capScore": 0.7784494983408411,
+    "cap": {
+      "english": 0.8199148539199458,
+      "universal": 0.7784494983408411
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 19:23:02 +0000 2021",
+      "recentTweetsPerWeek": "160",
+      "numberOfTweets": 797,
+      "numberOfFollowees": 63,
+      "numberOfFollowers": 10,
+      "numberOfLikes": 2975
+    }
+  },
+  {
+    "user": {
+      "screen_name": "SEKO44094454",
+      "id_str": "1406949924281925636",
+      "lang": "tr"
+    },
+    "categories": {
+      "astroturf": 0.1,
+      "fake_follower": 0.81,
+      "financial": 0.3,
+      "other": 0.89,
+      "overall": 0.89,
+      "self_declared": 0.15,
+      "spammer": 0.23
+    },
+    "score": 0.89,
+    "scores": {
+      "english": {
+        "astroturf": 0.08,
+        "fake_follower": 0.71,
+        "financial": 0.31,
+        "other": 0.9,
+        "overall": 0.9,
+        "self_declared": 0.13,
+        "spammer": 0.25
+      },
+      "universal": {
+        "astroturf": 0.1,
+        "fake_follower": 0.81,
+        "financial": 0.3,
+        "other": 0.89,
+        "overall": 0.89,
+        "self_declared": 0.15,
+        "spammer": 0.23
+      }
+    },
+    "capScore": 0.859576255252869,
+    "cap": {
+      "english": 0.8670116134145492,
+      "universal": 0.859576255252869
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 17:08:07 +0000 2021",
+      "recentTweetsPerWeek": "85",
+      "numberOfTweets": 1415,
+      "numberOfFollowees": 827,
+      "numberOfFollowers": 26,
+      "numberOfLikes": 3462
+    }
+  },
+  {
+    "user": {
+      "screen_name": "Davidlouvem",
+      "id_str": "4906554257",
+      "lang": "pt"
+    },
+    "categories": {
+      "astroturf": 0.33,
+      "fake_follower": 0.24,
+      "financial": 0,
+      "other": 0.46,
+      "overall": 0.22,
+      "self_declared": 0,
+      "spammer": 0.01
+    },
+    "score": 0.22,
+    "scores": {
+      "english": {
+        "astroturf": 0.45,
+        "fake_follower": 0.34,
+        "financial": 0,
+        "other": 0.52,
+        "overall": 0.34,
+        "self_declared": 0,
+        "spammer": 0.03
+      },
+      "universal": {
+        "astroturf": 0.33,
+        "fake_follower": 0.24,
+        "financial": 0,
+        "other": 0.46,
+        "overall": 0.22,
+        "self_declared": 0,
+        "spammer": 0.01
+      }
+    },
+    "capScore": 0.7334998320027682,
+    "cap": {
+      "english": 0.7874002196908744,
+      "universal": 0.7334998320027682
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sun Dec 12 00:25:20 +0000 2021",
+      "recentTweetsPerWeek": "480",
+      "numberOfTweets": 9159,
+      "numberOfFollowees": 1712,
+      "numberOfFollowers": 1882,
+      "numberOfLikes": 13781
+    }
+  },
+  {
+    "user": {
+      "screen_name": "CMicaelS",
+      "id_str": "4717723637",
+      "lang": "pt"
+    },
+    "categories": {
+      "astroturf": 0.03,
+      "fake_follower": 0.02,
+      "financial": 0.02,
+      "other": 0.06,
+      "overall": 0.01,
+      "self_declared": 0,
+      "spammer": 0
+    },
+    "score": 0.01,
+    "scores": {
+      "english": {
+        "astroturf": 0.07,
+        "fake_follower": 0.06,
+        "financial": 0.05,
+        "other": 0.47,
+        "overall": 0.22,
+        "self_declared": 0,
+        "spammer": 0.01
+      },
+      "universal": {
+        "astroturf": 0.03,
+        "fake_follower": 0.02,
+        "financial": 0.02,
+        "other": 0.06,
+        "overall": 0.01,
+        "self_declared": 0,
+        "spammer": 0
+      }
+    },
+    "capScore": 0.23332432370635456,
+    "cap": {
+      "english": 0.7176911080698488,
+      "universal": 0.23332432370635456
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Fri Dec 10 20:20:55 +0000 2021",
+      "recentTweetsPerWeek": "27",
+      "numberOfTweets": 9424,
+      "numberOfFollowees": 495,
+      "numberOfFollowers": 493,
+      "numberOfLikes": 11606
+    }
+  },
+  {
+    "user": {
+      "screen_name": "ssho0125love",
+      "id_str": "1010015983086362624",
+      "lang": "ja"
+    },
+    "categories": {
+      "astroturf": 0.15,
+      "fake_follower": 0.25,
+      "financial": 0,
+      "other": 0.6,
+      "overall": 0.38,
+      "self_declared": 0.01,
+      "spammer": 0.04
+    },
+    "score": 0.38,
+    "scores": {
+      "english": {
+        "astroturf": 0.19,
+        "fake_follower": 0.3,
+        "financial": 0.02,
+        "other": 0.79,
+        "overall": 0.79,
+        "self_declared": 0.01,
+        "spammer": 0.06
+      },
+      "universal": {
+        "astroturf": 0.15,
+        "fake_follower": 0.25,
+        "financial": 0,
+        "other": 0.6,
+        "overall": 0.38,
+        "self_declared": 0.01,
+        "spammer": 0.04
+      }
+    },
+    "capScore": 0.801617083559931,
+    "cap": {
+      "english": 0.8100783815308749,
+      "universal": 0.801617083559931
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sun Dec 12 00:03:16 +0000 2021",
+      "recentTweetsPerWeek": "2400",
+      "numberOfTweets": 108222,
+      "numberOfFollowees": 320,
+      "numberOfFollowers": 353,
+      "numberOfLikes": 469760
+    }
+  },
+  {
+    "user": {
+      "screen_name": "BlakPwrites",
+      "id_str": "173482905",
+      "lang": "en"
+    },
+    "categories": {
+      "astroturf": 0.41,
+      "fake_follower": 0.15,
+      "financial": 0.05,
+      "other": 0.44,
+      "overall": 0.37,
+      "self_declared": 0,
+      "spammer": 0.01
+    },
+    "score": 0.37,
+    "scores": {
+      "english": {
+        "astroturf": 0.41,
+        "fake_follower": 0.15,
+        "financial": 0.05,
+        "other": 0.44,
+        "overall": 0.37,
+        "self_declared": 0,
+        "spammer": 0.01
+      },
+      "universal": {
+        "astroturf": 0.44,
+        "fake_follower": 0.13,
+        "financial": 0.03,
+        "other": 0.42,
+        "overall": 0.32,
+        "self_declared": 0.01,
+        "spammer": 0
+      }
+    },
+    "capScore": 0.7920317685697057,
+    "cap": {
+      "english": 0.7920317685697057,
+      "universal": 0.792436790569533
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sun Dec 12 00:13:21 +0000 2021",
+      "recentTweetsPerWeek": "2400",
+      "numberOfTweets": 259559,
+      "numberOfFollowees": 2486,
+      "numberOfFollowers": 1972,
+      "numberOfLikes": 241447
+    }
+  },
+  {
+    "user": {
+      "screen_name": "grabielahernan7",
+      "id_str": "1414672299425476617",
+      "lang": "es"
+    },
+    "categories": {
+      "astroturf": 0.13,
+      "fake_follower": 0.21,
+      "financial": 0.03,
+      "other": 0.42,
+      "overall": 0.55,
+      "self_declared": 0.17,
+      "spammer": 0.55
+    },
+    "score": 0.55,
+    "scores": {
+      "english": {
+        "astroturf": 0.13,
+        "fake_follower": 0.26,
+        "financial": 0.07,
+        "other": 0.64,
+        "overall": 0.64,
+        "self_declared": 0.16,
+        "spammer": 0.57
+      },
+      "universal": {
+        "astroturf": 0.13,
+        "fake_follower": 0.21,
+        "financial": 0.03,
+        "other": 0.42,
+        "overall": 0.55,
+        "self_declared": 0.17,
+        "spammer": 0.55
+      }
+    },
+    "capScore": 0.805401613592116,
+    "cap": {
+      "english": 0.796599114745521,
+      "universal": 0.805401613592116
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Fri Dec 10 22:38:18 +0000 2021",
+      "recentTweetsPerWeek": "19",
+      "numberOfTweets": 300,
+      "numberOfFollowees": 207,
+      "numberOfFollowers": 117,
+      "numberOfLikes": 434
+    }
+  },
+  {
+    "user": {
+      "screen_name": "Purpleeve3",
+      "id_str": "2459210694",
+      "lang": "en"
+    },
+    "categories": {
+      "astroturf": 0.13,
+      "fake_follower": 0.08,
+      "financial": 0.02,
+      "other": 0.14,
+      "overall": 0.17,
+      "self_declared": 0,
+      "spammer": 0.12
+    },
+    "score": 0.17,
+    "scores": {
+      "english": {
+        "astroturf": 0.13,
+        "fake_follower": 0.08,
+        "financial": 0.02,
+        "other": 0.14,
+        "overall": 0.17,
+        "self_declared": 0,
+        "spammer": 0.12
+      },
+      "universal": {
+        "astroturf": 0.12,
+        "fake_follower": 0.14,
+        "financial": 0.05,
+        "other": 0.38,
+        "overall": 0.24,
+        "self_declared": 0.01,
+        "spammer": 0.1
+      }
+    },
+    "capScore": 0.6414184221423734,
+    "cap": {
+      "english": 0.6414184221423734,
+      "universal": 0.7527121552274618
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 17:02:11 +0000 2021",
+      "recentTweetsPerWeek": "110",
+      "numberOfTweets": 370,
+      "numberOfFollowees": 131,
+      "numberOfFollowers": 33,
+      "numberOfLikes": 648
+    }
+  },
+  {
+    "user": {
+      "screen_name": "YsabelGini",
+      "id_str": "1123207800",
+      "lang": "es"
+    },
+    "categories": {
+      "astroturf": 0.05,
+      "fake_follower": 0.04,
+      "financial": 0.1,
+      "other": 0.16,
+      "overall": 0.04,
+      "self_declared": 0,
+      "spammer": 0
+    },
+    "score": 0.04,
+    "scores": {
+      "english": {
+        "astroturf": 0.03,
+        "fake_follower": 0.24,
+        "financial": 0.22,
+        "other": 0.56,
+        "overall": 0.36,
+        "self_declared": 0,
+        "spammer": 0.01
+      },
+      "universal": {
+        "astroturf": 0.05,
+        "fake_follower": 0.04,
+        "financial": 0.1,
+        "other": 0.16,
+        "overall": 0.04,
+        "self_declared": 0,
+        "spammer": 0
+      }
+    },
+    "capScore": 0.31739450135566455,
+    "cap": {
+      "english": 0.7907586934369296,
+      "universal": 0.31739450135566455
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Fri Dec 10 11:20:12 +0000 2021",
+      "recentTweetsPerWeek": "5.9",
+      "numberOfTweets": 938,
+      "numberOfFollowees": 239,
+      "numberOfFollowers": 27,
+      "numberOfLikes": 1224
+    }
+  },
+  {
+    "user": {
+      "screen_name": "emma3021",
+      "id_str": "226296151",
+      "lang": "es"
+    },
+    "categories": {
+      "astroturf": 0.2,
+      "fake_follower": 0.04,
+      "financial": 0,
+      "other": 0.22,
+      "overall": 0.07,
+      "self_declared": 0,
+      "spammer": 0.01
+    },
+    "score": 0.07,
+    "scores": {
+      "english": {
+        "astroturf": 0.22,
+        "fake_follower": 0.14,
+        "financial": 0.01,
+        "other": 0.66,
+        "overall": 0.15,
+        "self_declared": 0,
+        "spammer": 0.01
+      },
+      "universal": {
+        "astroturf": 0.2,
+        "fake_follower": 0.04,
+        "financial": 0,
+        "other": 0.22,
+        "overall": 0.07,
+        "self_declared": 0,
+        "spammer": 0.01
+      }
+    },
+    "capScore": 0.40673978557586005,
+    "cap": {
+      "english": 0.6004883262510591,
+      "universal": 0.40673978557586005
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 23:01:02 +0000 2021",
+      "recentTweetsPerWeek": "73",
+      "numberOfTweets": 21530,
+      "numberOfFollowees": 2822,
+      "numberOfFollowers": 927,
+      "numberOfLikes": 37906
+    }
+  },
+  {
+    "user": {
+      "screen_name": "Almaba1025",
+      "id_str": "904130686982000641",
+      "lang": "es"
+    },
+    "categories": {
+      "astroturf": 0.31,
+      "fake_follower": 0.28,
+      "financial": 0.07,
+      "other": 0.37,
+      "overall": 0.41,
+      "self_declared": 0.01,
+      "spammer": 0.06
+    },
+    "score": 0.41,
+    "scores": {
+      "english": {
+        "astroturf": 0.3,
+        "fake_follower": 0.37,
+        "financial": 0.09,
+        "other": 0.72,
+        "overall": 0.72,
+        "self_declared": 0,
+        "spammer": 0.12
+      },
+      "universal": {
+        "astroturf": 0.31,
+        "fake_follower": 0.28,
+        "financial": 0.07,
+        "other": 0.37,
+        "overall": 0.41,
+        "self_declared": 0.01,
+        "spammer": 0.06
+      }
+    },
+    "capScore": 0.8035432096295109,
+    "cap": {
+      "english": 0.7989890411370751,
+      "universal": 0.8035432096295109
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 20:55:27 +0000 2021",
+      "recentTweetsPerWeek": "140",
+      "numberOfTweets": 11918,
+      "numberOfFollowees": 56,
+      "numberOfFollowers": 40,
+      "numberOfLikes": 8121
+    }
+  },
+  {
+    "user": {
+      "screen_name": "AnnamariaCRO",
+      "id_str": "52330828",
+      "lang": "en"
+    },
+    "categories": {
+      "astroturf": 0.04,
+      "fake_follower": 0.07,
+      "financial": 0,
+      "other": 0.12,
+      "overall": 0.02,
+      "self_declared": 0.01,
+      "spammer": 0
+    },
+    "score": 0.02,
+    "scores": {
+      "english": {
+        "astroturf": 0.04,
+        "fake_follower": 0.07,
+        "financial": 0,
+        "other": 0.12,
+        "overall": 0.02,
+        "self_declared": 0.01,
+        "spammer": 0
+      },
+      "universal": {
+        "astroturf": 0.06,
+        "fake_follower": 0.03,
+        "financial": 0,
+        "other": 0.36,
+        "overall": 0.12,
+        "self_declared": 0.08,
+        "spammer": 0.02
+      }
+    },
+    "capScore": 0.2520419704315795,
+    "cap": {
+      "english": 0.2520419704315795,
+      "universal": 0.5488888157824968
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 22:53:57 +0000 2021",
+      "recentTweetsPerWeek": "25",
+      "numberOfTweets": 25821,
+      "numberOfFollowees": 190,
+      "numberOfFollowers": 372,
+      "numberOfLikes": 6669
+    }
+  },
+  {
+    "user": {
+      "screen_name": "Tocantins79",
+      "id_str": "1040976018037780480",
+      "lang": "pt"
+    },
+    "categories": {
+      "astroturf": 0.72,
+      "fake_follower": 0.21,
+      "financial": 0,
+      "other": 0.35,
+      "overall": 0.28,
+      "self_declared": 0,
+      "spammer": 0
+    },
+    "score": 0.28,
+    "scores": {
+      "english": {
+        "astroturf": 0.61,
+        "fake_follower": 0.24,
+        "financial": 0.03,
+        "other": 0.59,
+        "overall": 0.34,
+        "self_declared": 0,
+        "spammer": 0.02
+      },
+      "universal": {
+        "astroturf": 0.72,
+        "fake_follower": 0.21,
+        "financial": 0,
+        "other": 0.35,
+        "overall": 0.28,
+        "self_declared": 0,
+        "spammer": 0
+      }
+    },
+    "capScore": 0.7784494983408411,
+    "cap": {
+      "english": 0.7874002196908744,
+      "universal": 0.7784494983408411
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 22:50:07 +0000 2021",
+      "recentTweetsPerWeek": "1900",
+      "numberOfTweets": 195323,
+      "numberOfFollowees": 7493,
+      "numberOfFollowers": 6810,
+      "numberOfLikes": 530311
+    }
+  },
+  {
+    "user": {
+      "screen_name": "Montsd_Oca",
+      "id_str": "127181476",
+      "lang": "es"
+    },
+    "categories": {
+      "astroturf": 0,
+      "fake_follower": 0.09,
+      "financial": 0.02,
+      "other": 0.04,
+      "overall": 0.01,
+      "self_declared": 0,
+      "spammer": 0
+    },
+    "score": 0.01,
+    "scores": {
+      "english": {
+        "astroturf": 0.01,
+        "fake_follower": 0.13,
+        "financial": 0.08,
+        "other": 0.49,
+        "overall": 0.21,
+        "self_declared": 0,
+        "spammer": 0.03
+      },
+      "universal": {
+        "astroturf": 0,
+        "fake_follower": 0.09,
+        "financial": 0.02,
+        "other": 0.04,
+        "overall": 0.01,
+        "self_declared": 0,
+        "spammer": 0
+      }
+    },
+    "capScore": 0.23332432370635456,
+    "cap": {
+      "english": 0.7053377817049258,
+      "universal": 0.23332432370635456
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Thu Dec 09 17:43:14 +0000 2021",
+      "recentTweetsPerWeek": "3.4",
+      "numberOfTweets": 11773,
+      "numberOfFollowees": 390,
+      "numberOfFollowers": 245,
+      "numberOfLikes": 1135
+    }
+  },
+  {
+    "user": {
+      "screen_name": "GustavoSant810",
+      "id_str": "1055521901970362369",
+      "lang": "pt"
+    },
+    "categories": {
+      "astroturf": 0.05,
+      "fake_follower": 0.06,
+      "financial": 0,
+      "other": 0.13,
+      "overall": 0.04,
+      "self_declared": 0,
+      "spammer": 0
+    },
+    "score": 0.04,
+    "scores": {
+      "english": {
+        "astroturf": 0.07,
+        "fake_follower": 0.09,
+        "financial": 0.01,
+        "other": 0.42,
+        "overall": 0.11,
+        "self_declared": 0,
+        "spammer": 0.02
+      },
+      "universal": {
+        "astroturf": 0.05,
+        "fake_follower": 0.06,
+        "financial": 0,
+        "other": 0.13,
+        "overall": 0.04,
+        "self_declared": 0,
+        "spammer": 0
+      }
+    },
+    "capScore": 0.31739450135566455,
+    "cap": {
+      "english": 0.5027122940873614,
+      "universal": 0.31739450135566455
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 01:34:07 +0000 2021",
+      "recentTweetsPerWeek": "51",
+      "numberOfTweets": 11886,
+      "numberOfFollowees": 574,
+      "numberOfFollowers": 246,
+      "numberOfLikes": 43875
+    }
+  },
+  {
+    "user": {
+      "screen_name": "JeffAmentsArmy",
+      "id_str": "545436446",
+      "lang": "en"
+    },
+    "categories": {
+      "astroturf": 0.01,
+      "fake_follower": 0.01,
+      "financial": 0,
+      "other": 0.18,
+      "overall": 0.07,
+      "self_declared": 0.02,
+      "spammer": 0
+    },
+    "score": 0.07,
+    "scores": {
+      "english": {
+        "astroturf": 0.01,
+        "fake_follower": 0.01,
+        "financial": 0,
+        "other": 0.18,
+        "overall": 0.07,
+        "self_declared": 0.02,
+        "spammer": 0
+      },
+      "universal": {
+        "astroturf": 0,
+        "fake_follower": 0.03,
+        "financial": 0,
+        "other": 0.28,
+        "overall": 0.13,
+        "self_declared": 0,
+        "spammer": 0
+      }
+    },
+    "capScore": 0.3912159239072283,
+    "cap": {
+      "english": 0.3912159239072283,
+      "universal": 0.5742686032713971
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 22:08:23 +0000 2021",
+      "recentTweetsPerWeek": "38",
+      "numberOfTweets": 27088,
+      "numberOfFollowees": 259,
+      "numberOfFollowers": 17828,
+      "numberOfLikes": 14274
+    }
+  },
+  {
+    "user": {
+      "screen_name": "carolistuita",
+      "id_str": "3900911183",
+      "lang": "pt"
+    },
+    "categories": {
+      "astroturf": 0.15,
+      "fake_follower": 0.04,
+      "financial": 0,
+      "other": 0.32,
+      "overall": 0.12,
+      "self_declared": 0,
+      "spammer": 0
+    },
+    "score": 0.12,
+    "scores": {
+      "english": {
+        "astroturf": 0.19,
+        "fake_follower": 0.12,
+        "financial": 0,
+        "other": 0.65,
+        "overall": 0.25,
+        "self_declared": 0.01,
+        "spammer": 0
+      },
+      "universal": {
+        "astroturf": 0.15,
+        "fake_follower": 0.04,
+        "financial": 0,
+        "other": 0.32,
+        "overall": 0.12,
+        "self_declared": 0,
+        "spammer": 0
+      }
+    },
+    "capScore": 0.5488888157824968,
+    "cap": {
+      "english": 0.7470839770895665,
+      "universal": 0.5488888157824968
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sun Dec 12 00:47:44 +0000 2021",
+      "recentTweetsPerWeek": "1300",
+      "numberOfTweets": 312838,
+      "numberOfFollowees": 625,
+      "numberOfFollowers": 3368,
+      "numberOfLikes": 143115
+    }
+  },
+  {
+    "user": {
+      "screen_name": "ultramarinecd",
+      "id_str": "763842952980422656",
+      "lang": "en"
+    },
+    "categories": {
+      "astroturf": 0.22,
+      "fake_follower": 0.11,
+      "financial": 0.01,
+      "other": 0.09,
+      "overall": 0.06,
+      "self_declared": 0,
+      "spammer": 0.04
+    },
+    "score": 0.06,
+    "scores": {
+      "english": {
+        "astroturf": 0.22,
+        "fake_follower": 0.11,
+        "financial": 0.01,
+        "other": 0.09,
+        "overall": 0.06,
+        "self_declared": 0,
+        "spammer": 0.04
+      },
+      "universal": {
+        "astroturf": 0.19,
+        "fake_follower": 0.04,
+        "financial": 0,
+        "other": 0.09,
+        "overall": 0.04,
+        "self_declared": 0,
+        "spammer": 0.01
+      }
+    },
+    "capScore": 0.36264564124632276,
+    "cap": {
+      "english": 0.36264564124632276,
+      "universal": 0.31739450135566455
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 17:09:32 +0000 2021",
+      "recentTweetsPerWeek": "130",
+      "numberOfTweets": 4214,
+      "numberOfFollowees": 501,
+      "numberOfFollowers": 195,
+      "numberOfLikes": 8742
+    }
+  },
+  {
+    "user": {
+      "screen_name": "flaquitopijon",
+      "id_str": "4323816855",
+      "lang": "es"
+    },
+    "categories": {
+      "astroturf": 0.34,
+      "fake_follower": 0.45,
+      "financial": 0.02,
+      "other": 0.6,
+      "overall": 0.33,
+      "self_declared": 0.01,
+      "spammer": 0.17
+    },
+    "score": 0.33,
+    "scores": {
+      "english": {
+        "astroturf": 0.34,
+        "fake_follower": 0.42,
+        "financial": 0.11,
+        "other": 0.49,
+        "overall": 0.31,
+        "self_declared": 0.01,
+        "spammer": 0.09
+      },
+      "universal": {
+        "astroturf": 0.34,
+        "fake_follower": 0.45,
+        "financial": 0.02,
+        "other": 0.6,
+        "overall": 0.33,
+        "self_declared": 0.01,
+        "spammer": 0.17
+      }
+    },
+    "capScore": 0.7947108099739177,
+    "cap": {
+      "english": 0.779581525363529,
+      "universal": 0.7947108099739177
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 19:08:29 +0000 2021",
+      "recentTweetsPerWeek": "18",
+      "numberOfTweets": 13155,
+      "numberOfFollowees": 5797,
+      "numberOfFollowers": 5704,
+      "numberOfLikes": 34146
+    }
+  },
+  {
+    "user": {
+      "screen_name": "kappa37462704",
+      "id_str": "1153303566465077250",
+      "lang": "en"
+    },
+    "categories": {
+      "astroturf": 0.06,
+      "fake_follower": 0.43,
+      "financial": 0.33,
+      "other": 0.84,
+      "overall": 0.84,
+      "self_declared": 0.08,
+      "spammer": 0.11
+    },
+    "score": 0.84,
+    "scores": {
+      "english": {
+        "astroturf": 0.06,
+        "fake_follower": 0.43,
+        "financial": 0.33,
+        "other": 0.84,
+        "overall": 0.84,
+        "self_declared": 0.08,
+        "spammer": 0.11
+      },
+      "universal": {
+        "astroturf": 0.07,
+        "fake_follower": 0.56,
+        "financial": 0.34,
+        "other": 0.78,
+        "overall": 0.78,
+        "self_declared": 0.17,
+        "spammer": 0.12
+      }
+    },
+    "capScore": 0.8287549877594508,
+    "cap": {
+      "english": 0.8287549877594508,
+      "universal": 0.8148417533461276
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 22:29:58 +0000 2021",
+      "recentTweetsPerWeek": "45",
+      "numberOfTweets": 2601,
+      "numberOfFollowees": 441,
+      "numberOfFollowers": 459,
+      "numberOfLikes": 5473
+    }
+  },
+  {
+    "user": {
+      "screen_name": "WandersonMota18",
+      "id_str": "1443011784944857091",
+      "lang": "pt"
+    },
+    "categories": {
+      "astroturf": 0.19,
+      "fake_follower": 0.28,
+      "financial": 0,
+      "other": 0.29,
+      "overall": 0.44,
+      "self_declared": 0.02,
+      "spammer": 0.17
+    },
+    "score": 0.44,
+    "scores": {
+      "english": {
+        "astroturf": 0.24,
+        "fake_follower": 0.28,
+        "financial": 0,
+        "other": 0.5,
+        "overall": 0.22,
+        "self_declared": 0.02,
+        "spammer": 0.14
+      },
+      "universal": {
+        "astroturf": 0.19,
+        "fake_follower": 0.28,
+        "financial": 0,
+        "other": 0.29,
+        "overall": 0.44,
+        "self_declared": 0.02,
+        "spammer": 0.17
+      }
+    },
+    "capScore": 0.8045992970534486,
+    "cap": {
+      "english": 0.7176911080698488,
+      "universal": 0.8045992970534486
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 20:44:13 +0000 2021",
+      "recentTweetsPerWeek": "160",
+      "numberOfTweets": 1526,
+      "numberOfFollowees": 1959,
+      "numberOfFollowers": 1613,
+      "numberOfLikes": 2861
+    }
+  },
+  {
+    "user": {
+      "screen_name": "AdibWOW",
+      "id_str": "413124796",
+      "lang": "in"
+    },
+    "categories": {
+      "astroturf": 0.03,
+      "fake_follower": 0.07,
+      "financial": 0.04,
+      "other": 0.19,
+      "overall": 0.1,
+      "self_declared": 0.02,
+      "spammer": 0.01
+    },
+    "score": 0.1,
+    "scores": {
+      "english": {
+        "astroturf": 0.04,
+        "fake_follower": 0.15,
+        "financial": 0.19,
+        "other": 0.3,
+        "overall": 0.26,
+        "self_declared": 0.01,
+        "spammer": 0.05
+      },
+      "universal": {
+        "astroturf": 0.03,
+        "fake_follower": 0.07,
+        "financial": 0.04,
+        "other": 0.19,
+        "overall": 0.1,
+        "self_declared": 0.02,
+        "spammer": 0.01
+      }
+    },
+    "capScore": 0.49449072748283696,
+    "cap": {
+      "english": 0.7546218700467833,
+      "universal": 0.49449072748283696
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 11:59:59 +0000 2021",
+      "recentTweetsPerWeek": "28",
+      "numberOfTweets": 67943,
+      "numberOfFollowees": 205,
+      "numberOfFollowers": 502,
+      "numberOfLikes": 5869
+    }
+  },
+  {
+    "user": {
+      "screen_name": "deepassfist",
+      "id_str": "1054452561833537537",
+      "lang": "en"
+    },
+    "categories": {
+      "astroturf": 0.05,
+      "fake_follower": 0.28,
+      "financial": 0.01,
+      "other": 0.19,
+      "overall": 0.15,
+      "self_declared": 0.01,
+      "spammer": 0.04
+    },
+    "score": 0.15,
+    "scores": {
+      "english": {
+        "astroturf": 0.05,
+        "fake_follower": 0.28,
+        "financial": 0.01,
+        "other": 0.19,
+        "overall": 0.15,
+        "self_declared": 0.01,
+        "spammer": 0.04
+      },
+      "universal": {
+        "astroturf": 0.09,
+        "fake_follower": 0.33,
+        "financial": 0,
+        "other": 0.56,
+        "overall": 0.3,
+        "self_declared": 0.01,
+        "spammer": 0.04
+      }
+    },
+    "capScore": 0.6004883262510591,
+    "cap": {
+      "english": 0.6004883262510591,
+      "universal": 0.7865642668428161
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 23:02:51 +0000 2021",
+      "recentTweetsPerWeek": "44",
+      "numberOfTweets": 4779,
+      "numberOfFollowees": 1065,
+      "numberOfFollowers": 3497,
+      "numberOfLikes": 3497
+    }
+  },
+  {
+    "user": {
+      "screen_name": "bisissy123",
+      "id_str": "1213979771542986752",
+      "lang": "en"
+    },
+    "categories": {
+      "astroturf": 0,
+      "fake_follower": 0.44,
+      "financial": 0.04,
+      "other": 0.42,
+      "overall": 0.33,
+      "self_declared": 0.08,
+      "spammer": 0.14
+    },
+    "score": 0.33,
+    "scores": {
+      "english": {
+        "astroturf": 0,
+        "fake_follower": 0.44,
+        "financial": 0.04,
+        "other": 0.42,
+        "overall": 0.33,
+        "self_declared": 0.08,
+        "spammer": 0.14
+      },
+      "universal": {
+        "astroturf": 0.01,
+        "fake_follower": 0.43,
+        "financial": 0.03,
+        "other": 0.64,
+        "overall": 0.64,
+        "self_declared": 0.15,
+        "spammer": 0.19
+      }
+    },
+    "capScore": 0.7852210697594887,
+    "cap": {
+      "english": 0.7852210697594887,
+      "universal": 0.8052478284119403
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 10:18:29 +0000 2021",
+      "recentTweetsPerWeek": "2.9",
+      "numberOfTweets": 446,
+      "numberOfFollowees": 823,
+      "numberOfFollowers": 798,
+      "numberOfLikes": 4959
+    }
+  },
+  {
+    "user": {
+      "screen_name": "izther",
+      "id_str": "1016857302601814016",
+      "lang": "pt"
+    },
+    "categories": {
+      "astroturf": 0.03,
+      "fake_follower": 0.01,
+      "financial": 0,
+      "other": 0.29,
+      "overall": 0.08,
+      "self_declared": 0,
+      "spammer": 0.01
+    },
+    "score": 0.08,
+    "scores": {
+      "english": {
+        "astroturf": 0.03,
+        "fake_follower": 0.17,
+        "financial": 0.03,
+        "other": 0.59,
+        "overall": 0.22,
+        "self_declared": 0,
+        "spammer": 0
+      },
+      "universal": {
+        "astroturf": 0.03,
+        "fake_follower": 0.01,
+        "financial": 0,
+        "other": 0.29,
+        "overall": 0.08,
+        "self_declared": 0,
+        "spammer": 0.01
+      }
+    },
+    "capScore": 0.43650814830094437,
+    "cap": {
+      "english": 0.7176911080698488,
+      "universal": 0.43650814830094437
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sun Dec 12 00:19:38 +0000 2021",
+      "recentTweetsPerWeek": "66",
+      "numberOfTweets": 32185,
+      "numberOfFollowees": 606,
+      "numberOfFollowers": 881,
+      "numberOfLikes": 4483
+    }
+  },
+  {
+    "user": {
+      "screen_name": "Ava6detribe18u",
+      "id_str": "1416953710844944384",
+      "lang": "en"
+    },
+    "categories": {
+      "astroturf": 0.22,
+      "fake_follower": 0.3,
+      "financial": 0.07,
+      "other": 0.54,
+      "overall": 0.4,
+      "self_declared": 0.2,
+      "spammer": 0.17
+    },
+    "score": 0.4,
+    "scores": {
+      "english": {
+        "astroturf": 0.22,
+        "fake_follower": 0.3,
+        "financial": 0.07,
+        "other": 0.54,
+        "overall": 0.4,
+        "self_declared": 0.2,
+        "spammer": 0.17
+      },
+      "universal": {
+        "astroturf": 0.23,
+        "fake_follower": 0.31,
+        "financial": 0.04,
+        "other": 0.4,
+        "overall": 0.38,
+        "self_declared": 0.16,
+        "spammer": 0.29
+      }
+    },
+    "capScore": 0.7946723107742963,
+    "cap": {
+      "english": 0.7946723107742963,
+      "universal": 0.801617083559931
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 17:53:29 +0000 2021",
+      "recentTweetsPerWeek": "1.7",
+      "numberOfTweets": 34,
+      "numberOfFollowees": 593,
+      "numberOfFollowers": 93,
+      "numberOfLikes": 459
+    }
+  },
+  {
+    "user": {
+      "screen_name": "Anderso54974422",
+      "id_str": "1089581656133025793",
+      "lang": "pt"
+    },
+    "categories": {
+      "astroturf": 0.1,
+      "fake_follower": 0.65,
+      "financial": 0.37,
+      "other": 0.87,
+      "overall": 0.87,
+      "self_declared": 0.22,
+      "spammer": 0.13
+    },
+    "score": 0.87,
+    "scores": {
+      "english": {
+        "astroturf": 0.1,
+        "fake_follower": 0.59,
+        "financial": 0.31,
+        "other": 0.79,
+        "overall": 0.79,
+        "self_declared": 0.04,
+        "spammer": 0.1
+      },
+      "universal": {
+        "astroturf": 0.1,
+        "fake_follower": 0.65,
+        "financial": 0.37,
+        "other": 0.87,
+        "overall": 0.87,
+        "self_declared": 0.22,
+        "spammer": 0.13
+      }
+    },
+    "capScore": 0.8474634546636374,
+    "cap": {
+      "english": 0.8100783815308749,
+      "universal": 0.8474634546636374
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Fri Dec 10 09:51:27 +0000 2021",
+      "recentTweetsPerWeek": "100",
+      "numberOfTweets": 10444,
+      "numberOfFollowees": 960,
+      "numberOfFollowers": 391,
+      "numberOfLikes": 35365
+    }
+  },
+  {
+    "user": {
+      "screen_name": "JoseOrt83060132",
+      "id_str": "1289032904841080833",
+      "lang": "es"
+    },
+    "categories": {
+      "astroturf": 0.06,
+      "fake_follower": 0.63,
+      "financial": 0.25,
+      "other": 0.87,
+      "overall": 0.87,
+      "self_declared": 0.01,
+      "spammer": 0.23
+    },
+    "score": 0.87,
+    "scores": {
+      "english": {
+        "astroturf": 0.04,
+        "fake_follower": 0.7,
+        "financial": 0.28,
+        "other": 0.68,
+        "overall": 0.7,
+        "self_declared": 0,
+        "spammer": 0.15
+      },
+      "universal": {
+        "astroturf": 0.06,
+        "fake_follower": 0.63,
+        "financial": 0.25,
+        "other": 0.87,
+        "overall": 0.87,
+        "self_declared": 0.01,
+        "spammer": 0.23
+      }
+    },
+    "capScore": 0.8474634546636374,
+    "cap": {
+      "english": 0.797782173166965,
+      "universal": 0.8474634546636374
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Nov 27 22:47:06 +0000 2021",
+      "recentTweetsPerWeek": "49",
+      "numberOfTweets": 2510,
+      "numberOfFollowees": 1114,
+      "numberOfFollowers": 28,
+      "numberOfLikes": 4283
+    }
+  },
+  {
+    "user": {
+      "screen_name": "tmal28",
+      "id_str": "1377244341320749059",
+      "lang": "en"
+    },
+    "categories": {
+      "astroturf": 0.29,
+      "fake_follower": 0.64,
+      "financial": 0.36,
+      "other": 0.91,
+      "overall": 0.91,
+      "self_declared": 0.01,
+      "spammer": 0.16
+    },
+    "score": 0.91,
+    "scores": {
+      "english": {
+        "astroturf": 0.29,
+        "fake_follower": 0.64,
+        "financial": 0.36,
+        "other": 0.91,
+        "overall": 0.91,
+        "self_declared": 0.01,
+        "spammer": 0.16
+      },
+      "universal": {
+        "astroturf": 0.22,
+        "fake_follower": 0.74,
+        "financial": 0.2,
+        "other": 0.84,
+        "overall": 0.84,
+        "self_declared": 0.03,
+        "spammer": 0.2
+      }
+    },
+    "capScore": 0.8748575042966269,
+    "cap": {
+      "english": 0.8748575042966269,
+      "universal": 0.8327856038833207
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sat Dec 11 15:07:44 +0000 2021",
+      "recentTweetsPerWeek": "1000",
+      "numberOfTweets": 2903,
+      "numberOfFollowees": 1168,
+      "numberOfFollowers": 65,
+      "numberOfLikes": 6066
+    }
+  },
+  {
+    "user": {
+      "screen_name": "lembone_",
+      "id_str": "1143627525911748608",
+      "lang": "en"
+    },
+    "categories": {
+      "astroturf": 0.06,
+      "fake_follower": 0.05,
+      "financial": 0,
+      "other": 0.05,
+      "overall": 0.02,
+      "self_declared": 0,
+      "spammer": 0.01
+    },
+    "score": 0.02,
+    "scores": {
+      "english": {
+        "astroturf": 0.06,
+        "fake_follower": 0.05,
+        "financial": 0,
+        "other": 0.05,
+        "overall": 0.02,
+        "self_declared": 0,
+        "spammer": 0.01
+      },
+      "universal": {
+        "astroturf": 0.05,
+        "fake_follower": 0.01,
+        "financial": 0,
+        "other": 0.03,
+        "overall": 0.03,
+        "self_declared": 0,
+        "spammer": 0.01
+      }
+    },
+    "capScore": 0.2520419704315795,
+    "cap": {
+      "english": 0.2520419704315795,
+      "universal": 0.28846389695411967
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sun Dec 12 00:02:27 +0000 2021",
+      "recentTweetsPerWeek": "50",
+      "numberOfTweets": 6738,
+      "numberOfFollowees": 174,
+      "numberOfFollowers": 73,
+      "numberOfLikes": 4458
+    }
+  },
+  {
+    "user": {
+      "screen_name": "charlieguadania",
+      "id_str": "158160007",
+      "lang": "es"
+    },
+    "categories": {
+      "astroturf": 0.21,
+      "fake_follower": 0.03,
+      "financial": 0,
+      "other": 0.17,
+      "overall": 0.13,
+      "self_declared": 0,
+      "spammer": 0
+    },
+    "score": 0.13,
+    "scores": {
+      "english": {
+        "astroturf": 0.25,
+        "fake_follower": 0.07,
+        "financial": 0,
+        "other": 0.58,
+        "overall": 0.22,
+        "self_declared": 0,
+        "spammer": 0.01
+      },
+      "universal": {
+        "astroturf": 0.21,
+        "fake_follower": 0.03,
+        "financial": 0,
+        "other": 0.17,
+        "overall": 0.13,
+        "self_declared": 0,
+        "spammer": 0
+      }
+    },
+    "capScore": 0.5742686032713971,
+    "cap": {
+      "english": 0.7176911080698488,
+      "universal": 0.5742686032713971
+    },
+    "analysis": {
+      "timeOfMostRecentPost": "Sun Dec 12 00:28:57 +0000 2021",
+      "recentTweetsPerWeek": "350",
+      "numberOfTweets": 68571,
+      "numberOfFollowees": 2180,
+      "numberOfFollowers": 1327,
+      "numberOfLikes": 32202
+    }
+  }
+]
