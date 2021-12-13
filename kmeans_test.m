@@ -8,7 +8,7 @@ k = 5;
 
 [idx,C] = kmeans(X,k);
 
-vars = [1,2,3];
+vars = [6,7,8];
 
 figure;
 plot3(X(idx==1,vars(1)),X(idx==1,vars(2)),X(idx==1,vars(3)),'r.','MarkerSize',12)
@@ -26,3 +26,22 @@ ylabel(Labels(vars(2)))
 zlabel(Labels(vars(3)))
 title 'Cluster Assignments and Centroids'
 hold off
+
+totals_bot = [0,0,0,0,0];
+totals_tbt = [0,0,0,0,0];
+totals_cluster = [0,0,0,0,0];
+
+for i=1:206
+    hashtag = T{i,3};
+    if hashtag == "#bot"
+       totals_bot(idx(i)) = totals_bot(idx(i)) + 1 
+    end
+    if hashtag == "#tbt"
+       totals_tbt(idx(i)) = totals_tbt(idx(i)) + 1 
+    end
+    totals_cluster(idx(i)) = totals_cluster(idx(i)) + 1     
+end    
+
+totals_bot
+totals_tbt
+totals_cluster
