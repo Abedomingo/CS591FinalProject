@@ -1,4 +1,4 @@
-[
+{ "result" : [
   {
     "user": {
       "screen_name": "Mica4711",
@@ -14999,4 +14999,4 @@
       "numberOfLikes": 0
     }
   }
-]
+]}
